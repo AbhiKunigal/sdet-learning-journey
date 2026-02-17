@@ -1,6 +1,6 @@
 ## What is Java?
 
-Java is a high-level, object-oriented, platform-independent programming language used to develop web, desktop, and mobile applications.
+Java is a object-oriented, platform-independent programming language used to develop web, desktop, and mobile applications.
 It follows the principle: Write Once, Run Anywhere (WORA).
 
 ## Types of Programming Languages
