@@ -1,4 +1,4 @@
-package swppingOfTwoNumbers_UsingTempVariable;
+package swppingOfTwoNumbers;
 
 public class SwppingOfTwoNumbers_UsingTempVariable {
 
