@@ -1,4 +1,4 @@
-package swppingOfTwoNumbers;
+package swappingOfTwoNumbers;
 
 public class SwappingOfTwoNumbers_Singlestatment {
 

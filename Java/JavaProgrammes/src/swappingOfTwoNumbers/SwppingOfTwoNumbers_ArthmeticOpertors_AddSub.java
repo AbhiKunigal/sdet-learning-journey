@@ -1,4 +1,4 @@
-package swppingOfTwoNumbers;
+package swappingOfTwoNumbers;
 
 public class SwppingOfTwoNumbers_ArthmeticOpertors_AddSub {
 
