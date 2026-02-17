@@ -59,3 +59,26 @@ Contains JVM + libraries.
 
 Executes Java bytecode.
 Makes Java platform independent.
+
+## Class Naming Conventions in Java
+
+A class name should start with an uppercase letter.
+Example: Student, CarModel
+
+A class name must not start with a number.
+Invalid: 1Student
+Valid: Student1
+
+A class name can contain numbers, but not at the beginning.
+
+A class name can contain an underscore (_), but it is not commonly used in class names.
+Example: Student_Record
+
+A class name cannot contain a hyphen (-).
+Example: Student-Record (Invalid)
+
+A class name cannot contain special characters such as @, #, $, %, &, *, etc.
+
+Best Practice:
+Java follows PascalCase convention for class names.
+Example: StudentRecord (Recommended)
