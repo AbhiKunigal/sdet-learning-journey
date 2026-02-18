@@ -73,26 +73,9 @@ int age = 20;
 String status = (age >= 18) ? "Adult" : "Minor";
 ---
 
-## 2. Iteration Statements (Loops)
+## 2. Iteration/Looping Statements
 
 These repeat code blocks multiple times:
-
-### for loop
-Repeats a block a specified number of times
-```java
-for (int i = 0; i < 5; i++) {
-    System.out.println(i);  // Output: 0 1 2 3 4
-}
-```
-
-### Enhanced for loop (for-each)
-Iterates through arrays or collections
-```java
-int[] numbers = {10, 20, 30, 40};
-for (int num : numbers) {
-    System.out.println(num);
-}
-```
 
 ### while loop
 Repeats while a condition is true
@@ -113,8 +96,28 @@ do {
     i++;
 } while (i < 10);
 ```
+### for loop
+Repeats a block a specified number of times
+```java
+for (int i = 0; i < 5; i++) {
+    System.out.println(i);  // Output: 0 1 2 3 4
+}
+```
 
+### Enhanced for loop (for-each)
+Iterates through arrays or collections
+```java
+int[] numbers = {10, 20, 30, 40};
+for (int num : numbers) {
+    System.out.println(num);
+}
+```
 ---
+
+## which loops is prefrrered
+1.if we know the number of iteration in adavnce then for loop is prefered.
+2.if we want to execute the statement atleat once  then do while is prefred.
+3.if we dont know the number of iteration and loop temation is based on condition then do while is prefred.
 
 ## 3. Jump Statements
 
@@ -140,6 +143,8 @@ for (int i = 0; i < 10; i++) {
     }
     System.out.println(i);
 }
+
+Here once the cotinue is executed, it will move to increment part of for loop 
 ```
 
 ### return statement
