@@ -5,7 +5,9 @@ import java.util.Arrays;
 
 public class StringMethods {
 
-	public static void main(String[] args) {
+	//public static void main(String[] args)
+	public void string123()
+	{
 		// TODO Auto-generated method stub
 		String st ="Hello";
 		 //finding length of String
